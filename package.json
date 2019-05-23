@@ -4,6 +4,7 @@
   "description": "Stupid MERN-like thing",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "jest"
   },
   "repository": {
