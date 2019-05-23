@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/anga13/stoopoo/issues"
   },
-  "homepage": "https://github.com/anga13/stoopoo#readme"
+  "homepage": "https://github.com/anga13/stoopoo#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
 }
